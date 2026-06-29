@@ -27,3 +27,8 @@ cd Protection
 
 # 3. Install requirements
 pip install -r requirements.txt
+
+
+🛑 Disclaimer
+This tool is intended for basic code protection and educational purposes. Advanced reverse engineers can still decode client-side code. Do not rely on this for highly sensitive backend credentials.
+Made with ❤️ by MixyOx-6
