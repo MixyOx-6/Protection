@@ -17,10 +17,10 @@ Clone the repository and install the required modules:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/MixyOx-6/zx-protect.git
+git clone https://github.com/MixyOx-6/Protection
 
 # 2. Go into the directory
-cd zx-protect
+cd Protection
 
 # 3. Install requirements
 pip install -r requirements.txt
