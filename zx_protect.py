@@ -77,7 +77,7 @@ def display_banner():
         box=box.DOUBLE, 
         border_style="cyan",
         title="[bold red] v1.0 [/bold red]",
-        subtitle="[bold yellow] Developer: [Your Name/Channel] [/bold yellow]"
+        subtitle="[bold yellow] Developer: [ TG @MixyOx ] [/bold yellow]"
     ))
     
     desc = Text("🚀 Advanced HTML/CSS/JS Protection Tool\nSecure your source code from being stolen!", style="bold green", justify="center")
